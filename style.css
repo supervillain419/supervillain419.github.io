@@ -364,14 +364,17 @@ section .title::after{
     top: 0;
     background: teal;
 }
-.skills-content .right .html::before{
-    width: 90%;
+.skills-content .right .c::before{
+    width: 70%;
 }
-.skills-content .right .css::before{
+.skills-content .right .java::before{
+    width: 65%;
+}
+.skills-content .right .networking::before{
     width: 60%;
 }
-.skills-content .right .js::before{
-    width: 80%;
+.skills-content .right .python::before{
+    width: 60%;
 }
 .skills-content .right .php::before{
     width: 50%;
@@ -379,6 +382,13 @@ section .title::after{
 .skills-content .right .mysql::before{
     width: 70%;
 }
+.skills-content .right .html::before{
+    width: 90%;
+}
+.skills-content .right .css::before{
+    width: 65%;
+}
+/*EDW VALE TA ALLA STYLES ME TO % TWN SKILLS!!!!!!!!!!!!!*/
 
 /* teams section styling */
 .teams .title::after{
