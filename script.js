@@ -71,3 +71,6 @@ $(document).ready(function(){
         }
     });
 });
+function available(){
+    alert("Contact via email for my CV. Thank you! ^^");
+}
