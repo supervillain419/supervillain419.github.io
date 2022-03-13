@@ -74,3 +74,6 @@ $(document).ready(function(){
 function available(){
     alert("Contact via email for my CV. Thank you! ^^");
 }
+function errormsg(){
+    alert("Automated email failed! Message box is under construction! ^^");
+}
