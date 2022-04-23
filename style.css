@@ -396,6 +396,10 @@ a:visited .card .box{
     text-decoration: none;
     color: white;
 }
+a:link .card .box{
+    text-decoration: none;
+    color: white;
+}
 
 
 .teams .title::after{
