@@ -391,6 +391,13 @@ section .title::after{
 /*EDW VALE TA ALLA STYLES ME TO % TWN SKILLS!!!!!!!!!!!!!*/
 
 /* teams section styling */
+
+a:visited .card .box{
+    text-decoration: none;
+    color: white;
+}
+
+
 .teams .title::after{
     content: "What can I do";
 }
